@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hkx/XHaaxtjGsLuNnx/1tvfauYvEkp6pPffrMhkaaPAo8YOZxGM83fOd7RZVduCYTlvMqshkPgZzuIuIbGYz3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gareg\\source\\repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gareg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
