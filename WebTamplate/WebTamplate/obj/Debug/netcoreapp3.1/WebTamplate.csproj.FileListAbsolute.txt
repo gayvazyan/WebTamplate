@@ -1,6 +1,5 @@
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\WebTamplate.exe
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\WebTamplate.deps.json
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\WebTamplate.runtimeconfig.json
@@ -9,7 +8,6 @@ C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcor
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\WebTamplate.pdb
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\WebTamplate.Views.dll
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\WebTamplate.Views.pdb
-C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.csprojAssemblyReference.cache
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.AssemblyInfoInputs.cache
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.AssemblyInfo.cs
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.csproj.CoreCompileInputs.cache
@@ -44,8 +42,11 @@ C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcor
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.RazorTargetAssemblyInfo.cs
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.Views.pdb
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\staticwebassets\WebTamplate.StaticWebAssets.Manifest.cache
-C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\staticwebassets\WebTamplate.StaticWebAssets.xml
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.dll
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.pdb
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.genruntimeconfig.cache
 C:\Users\gareg\source\repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.csproj.CopyComplete
+C:\Users\gareg\Source\Repos\WebTamplate\WebTamplate\WebTamplate\bin\Debug\netcoreapp3.1\WebTamplate.StaticWebAssets.xml
+C:\Users\gareg\Source\Repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.csproj.AssemblyReference.cache
+C:\Users\gareg\Source\Repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gareg\Source\Repos\WebTamplate\WebTamplate\WebTamplate\obj\Debug\netcoreapp3.1\WebTamplate.RazorComponent.output.cache

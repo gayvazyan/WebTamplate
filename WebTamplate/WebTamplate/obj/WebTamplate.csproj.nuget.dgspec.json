@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gareg\\source\\repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj": {}
+    "C:\\Users\\gareg\\Source\\Repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gareg\\source\\repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj": {
+    "C:\\Users\\gareg\\Source\\Repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gareg\\source\\repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj",
+        "projectUniqueName": "C:\\Users\\gareg\\Source\\Repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj",
         "projectName": "WebTamplate",
-        "projectPath": "C:\\Users\\gareg\\source\\repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj",
+        "projectPath": "C:\\Users\\gareg\\Source\\Repos\\WebTamplate\\WebTamplate\\WebTamplate\\WebTamplate.csproj",
         "packagesPath": "C:\\Users\\gareg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gareg\\source\\repos\\WebTamplate\\WebTamplate\\WebTamplate\\obj\\",
+        "outputPath": "C:\\Users\\gareg\\Source\\Repos\\WebTamplate\\WebTamplate\\WebTamplate\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\gareg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,8 +51,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
             }
           ],
           "frameworkReferences": {
@@ -64,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
